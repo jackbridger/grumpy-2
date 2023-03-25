@@ -54,7 +54,7 @@ html {
   
   /* Additional stuff for index.html page */
   .jumbotron {
-    background-image: url("/grumpy-with-glasses.jpg");
+    background-image: url("grumpy-with-glasses.jpg");
     background-size: cover;
     color: white;
   }
